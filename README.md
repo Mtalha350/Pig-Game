@@ -1,3 +1,3 @@
 ﻿# Pig-Game
 ## For Practice
-Click Here 👉 https://modals-window.netlify.app/
+Click Here 👉 https://pig-gamest.netlify.app/
